@@ -1,3 +1,3 @@
 # deep-dive-iterable
 
-Exploration of Iterable interface using Fibonnaci sequence as an example. 
+Exploration of Iterable interface using Fibonnacci sequence as an example. 
